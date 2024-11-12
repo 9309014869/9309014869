@@ -11,10 +11,9 @@ I am a Full Stack Developer with expertise in **MERN** (MongoDB, Express, React,
 
 ## 🔧 Technologies & Tools
 - **Frontend:** React, Tailwind CSS, Redux, JavaScript
-- **Backend:** Node.js, Express, MongoDB, WebSockets, Kafka
-- **DevOps:** Docker, Kubernetes, CI/CD
+- **Backend:** Node.js, Express, MongoDB, WebSockets
 - **Version Control:** Git, GitHub, GitLab
-- **Other:** WebRTC, Blockchain, RESTful APIs
+- **Other:** WebRTC, RESTful APIs
 
 ## 🚀 Projects
 Here are some of the projects I’ve worked on:
