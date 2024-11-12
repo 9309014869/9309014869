@@ -6,7 +6,7 @@ I am a Full Stack Developer with expertise in **MERN** (MongoDB, Express, React,
 - 🌱 I’m currently learning **WebRTC** and **Blockchain Development**.
 - 🔭 I’m working on various **full-stack projects** in **MERN** and **Python**.
 - 💬 Ask me about **React**, **Node.js**, **WebRTC**, or any full-stack development questions!
-- 📫 You can reach me via email: [your.email@example.com](mailto:your.email@example.com)
+- 📫 You can reach me via email: [tejas.kawarkhe555@gmail.com](mailto:your.email@example.com)
 - 😄 Fun fact: I enjoy exploring new technologies and contributing to open-source.
 
 ## 🔧 Technologies & Tools
@@ -18,10 +18,8 @@ I am a Full Stack Developer with expertise in **MERN** (MongoDB, Express, React,
 ## 🚀 Projects
 Here are some of the projects I’ve worked on:
 
-### [Price History & Tracker](https://github.com/yourusername/projectname)
-A full-stack app built with **MERN** that tracks the price history of products.
 
-### [Online Fuel Delivery](https://github.com/yourusername/projectname)
+### [Online Fuel Delivery]
 A fuel delivery service with integrated **location tracing** using **Kafka** for real-time tracking.
 
 ### [Instagram Clone](https://github.com/yourusername/projectname)
